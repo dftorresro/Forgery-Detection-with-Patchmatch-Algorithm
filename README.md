@@ -4,7 +4,7 @@ This repository contains the code and example outputs for a project focused on i
 
 ## Project Overview
 
-The core of this project is the Jupyter notebook `PF - IMA202a (v2.3 Patchmatch)` which contains the implementation of the Patchmatch algorithm—an efficient random search algorithm to find approximate nearest neighbor matches between image patches. This repository also includes a sample image `512x512_squares.png` that demonstrates the algorithm's application.
+The core of this project is the Jupyter notebook `PF - IMA202a (v2.3 Patchmatch)` which contains the implementation of the Patchmatch algorithm—an efficient random search algorithm to find approximate nearest neighbor matches between image patches. 
 
 ### `PF - IMA202a (v2.3 Patchmatch).ipynb`
 
