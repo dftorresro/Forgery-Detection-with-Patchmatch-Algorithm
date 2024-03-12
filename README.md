@@ -16,7 +16,7 @@ This Jupyter notebook includes the following:
 
 ### `512x512_squares.png`
 
-An example image provided to showcase the result of the algorithm. The image appears to contain a noisy background with clearly marked white squares, possibly used for testing the pattern recognition capabilities of the Patchmatch implementation.
+An example image provided to showcase the result of the algorithm. The image contains a noisy background with clearly marked white squares, used for testing the pattern recognition capabilities of the Patchmatch implementation more focused on time consumption.
 
 ## How to Run the Project
 
@@ -37,7 +37,3 @@ Open the Jupyter notebook and execute the cells in sequence to see the algorithm
 - Jupyter
 
 A `requirements.txt` file should be included that lists the precise versions of these dependencies.
-
-## Contributing
-
-We welcome contributions and suggestions! Please fork the repository and submit a pull request with your proposed changes.
